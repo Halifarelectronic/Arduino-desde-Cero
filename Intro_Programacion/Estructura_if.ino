@@ -23,4 +23,4 @@ void setup() {
 
 void loop() {
   // No se necesita hacer nada en el loop para esta actividad
-}
+} 
