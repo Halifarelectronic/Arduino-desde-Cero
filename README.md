@@ -1,44 +1,45 @@
+# 🌟 Halifar Electronic Tech 🌟
 
-🌟 Halifar Electronic Tech 🌟
-¡Bienvenido a nuestro repositorio oficial! 🚀 Aquí encontrarás un mundo de recursos y conocimientos para potenciar tus habilidades en electrónica, programación y automatización. Somos Halifar Electronic Tech, tu aliado en el aprendizaje práctico y dinámico de la tecnología.
+## 🧰 ¿Qué encontrarás aquí?
 
-🧰 ¿Qué encontrarás aquí?
 Este repositorio es el punto de encuentro para todos los apasionados de la tecnología. ¡Explora y aprende con nuestros materiales!
 
-🔌 Cursos disponibles:
-Arduino desde Cero
+## Descripción
 
-Aprende desde lo básico hasta crear proyectos increíbles con Arduino.
-Código de prácticas, diagramas de conexión y más.
+¡Bienvenido a nuestro repositorio oficial! 🚀 Aquí encontrarás un mundo de recursos y conocimientos para potenciar 
+tus habilidades en electrónica, programación y automatización. Somos Halifar Electronic Tech, tu aliado en el 
+aprendizaje práctico y dinámico de la tecnología.
 
-ESP32 con Domótica
+## Visuales
 
-Automatiza tu hogar con este poderoso microcontrolador.
-Proyectos de IoT y control remoto.
+Capturas de pantalla, videos o GIFs que demuestran lo que hace el proyecto y cómo usarlo.
 
-Python
+## 🛠️ Requerimientos básicos
 
-Domina la programación con uno de los lenguajes más versátiles.
-Scripts prácticos para electrónica y más.
+- Un microcontrolador compatible (Arduino UNO, Mega2566 , etc.).
+- Software de desarrollo (Arduino IDE, Visual Studio Code).
 
-¡Pronto más sorpresas y recursos exclusivos para ti!
 
-Explora las carpetas de los cursos.
-
-Sigue las instrucciones y diagramas incluidos para desarrollar tus proyectos.
-
-🛠️ Requerimientos básicos:
-Un microcontrolador compatible (Arduino, ESP32, etc.).
-Software de desarrollo (Arduino IDE, Python, etc.).
-Pasión por aprender y experimentar. 🎉
-📬 Contacto y soporte:
+### 📬 Contacto y soporte:
 Si tienes dudas, sugerencias o necesitas ayuda, contáctanos:
+
 📧 Correo: contacto@halifarelectronictech.com.mx
 🌐 Web: [halifartech.com](https://halifarelectronictech.com.mx)
 📱 Redes sociales: [Facebook](https://www.facebook.com/halifarelectronictech/) | [Instagram](https://www.instagram.com/halifarelectronictech) | [YouTube](https://www.youtube.com/@halifarelectronic3d376)
 
-🤝 Contribuye con nosotros:
-¡Ayúdanos a mejorar este repositorio! Si tienes ideas, nuevos proyectos o mejoras, no dudes en hacer un fork y enviarnos un pull request.
 
-🌍 Aprende, experimenta y crea con Halifar Electronic Tech.
-Porque el conocimiento es mejor cuando se comparte. 💡
+## Autor ✒️
+
+- **Ernesto Leal ** - _Trabajo inicial_ - [LinkedIn](https://www.linkedin.com/in/ernesto-leal-arellano/)
+
+## Expresiones de Gratitud 🎁
+
+Estamos agradecidos por las contribuciones de la comunidad a este proyecto. Si encontraste cualquier valor en este proyecto o quieres contribuir, aquí está lo que puedes hacer:
+
+- Comparte este proyecto con otros
+- Invítanos un café ☕
+- Inicia un nuevo problema o contribuye con un PR
+- Muestra tu agradecimiento diciendo gracias en un nuevo problema.
+
+---
+
