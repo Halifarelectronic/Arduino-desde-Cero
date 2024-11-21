@@ -27,7 +27,7 @@ Si tienes dudas, sugerencias o necesitas ayuda, contáctanos:
 
 ## Autor ✒️
 
-- **Ernesto Leal ** - _Trabajo inicial_ - [LinkedIn](https://www.linkedin.com/in/ernesto-leal-arellano/)
+- **M.I. Ernesto Leal ** -  [LinkedIn](https://www.linkedin.com/in/ernesto-leal-arellano/)
 
 ## Expresiones de Gratitud 🎁
 
@@ -36,8 +36,8 @@ proyecto o quieres contribuir, aquí está lo que puedes hacer:
 
 - Comparte este proyecto con otros
 - Invítanos un café ☕
-- Inicia un nuevo problema o contribuye con un PR
+- Inicia un nuevo problema o contribuye con una estrella
 - Muestra tu agradecimiento diciendo gracias en un nuevo problema.
 
----
+
 
